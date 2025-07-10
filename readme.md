@@ -1,5 +1,3 @@
----
-
 # 🔐 Gerador de Senhas Interativo (Node.js CLI)
 
 Este é um gerador de senhas personalizável executado via terminal (linha de comando) usando Node.js. O usuário pode escolher quais tipos de caracteres incluir (letras maiúsculas, minúsculas, números e símbolos especiais) e definir o comprimento da senha gerada.
@@ -59,5 +57,3 @@ Qual sera o tamanho da sua senha? 12
 ## 📄 Licença
 
 Este projeto é livre para uso educacional, pessoal e profissional. Nenhuma licença específica foi definida.
-
----
